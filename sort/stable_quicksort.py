@@ -22,4 +22,3 @@ if __name__ == '__main__':
 
     print(nums)
     print(qs(nums))
-    
