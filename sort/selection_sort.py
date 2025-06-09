@@ -2,7 +2,7 @@ import random
 
 
 def selection_sort(nums):
-    
+
     nums = nums.copy()  # 创建副本，避免修改原数组
     n = len(nums)
 
